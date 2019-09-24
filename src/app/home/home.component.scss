@@ -1,0 +1,32 @@
+body {
+  background: url(https://web.poecdn.com/image/layout/blight-bg.jpg?1568172500905);
+  background-color: black;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+.h1 {
+  font-weight: bolder;
+  font-size: 45px;
+  color: #2a2ad8;
+  text-align: center;
+  margin-top: 4vh;
+}
+
+.box {
+  background: transparent;
+  border: 15px solid rgba(32, 32, 32, 0);
+  padding: 4vw;
+  margin-left: 20vw;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 10px;
+  width: 50vw;
+  height: 100vh;
+}
+
+.thick {
+  font-weight: bolder;
+  font-size: 45px;
+  color: white
+}
